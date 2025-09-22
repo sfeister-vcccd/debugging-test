@@ -2,6 +2,8 @@
 This program calculates the total income of an employee working at In-N-Out Burger over the summer.
 It includes regular pay, overtime pay, and handles different weeks with varying hours.
 
+This program is deliberately riddled with syntax errors for you to find and correct.
+
 Created with ChatGPT by Dr. Scott Feister as an example in CS M125
 */
 
